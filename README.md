@@ -41,3 +41,6 @@ Contact
 3. Upload the script: Click on 'Upload notebook' and select the 'bachelorml (3).py' file.
 4. Install requirements: Run any installation commands needed for the script.
 5. Execute the script: Follow the instructions provided in the 'How to Use' section.
+
+## Dataset Kaggle
+https://www.kaggle.com/datasets/jillwang87/online-retail-ii 

@@ -13,19 +13,19 @@ Description: This Python script (presumably related to a machine learning projec
 
 
 ## Contents
-1. Script Functionality
+1. Script functionality
 Overview: This script addresses key challenges in SME inventory management in the e-commerce sector, using machine learning and data analysis.
-Challenges Addressed: Tackles issues such as overstocking, stockouts, difficulty in forecasting demand, and inaccurate inventory counts.
-Solution Approach: Utilizes survey data from "SME Inventory Management Practices & Challenges" to inform the development of a tailored solution.
+Challenges addressed: Tackles issues such as overstocking, stockouts, difficulty in forecasting demand, and inaccurate inventory counts.
+Solution approach: Utilizes survey data from "SME Inventory Management Practices & Challenges" to inform the development of a tailored solution.
 
-3. Requirements
-Libraries and Packages: Requirements include Python libraries like Pandas for data manipulation, NumPy for numerical computations, and other machine learning libraries.
+2. Requirements
+Libraries and packages: Requirements include Python libraries like Pandas for data manipulation, NumPy for numerical computations, and other machine learning libraries.
 
-5. How to Use
+3. How to Use
 Google Colab setup: Instructions on setting up the script in Google Colab, a cloud-based platform ideal for SMEs due to its accessibility and free resources.
 Running the Script: Step-by-step guide to executing the script, including handling data files, setting parameters, and understanding script outputs.
 
-7. Example Usage
+4. Example Usage
 Data mport and processing: Description of how to import and process data using Pandas and NumPy, including loading real-world e-commerce datasets.
 Data cleaning and preparation: Instructions on handling missing values, outliers, and feature engineering to enhance predictive power.
 Integrating external API: Guide on incorporating weather data through APIs to improve predictive accuracy in inventory management.

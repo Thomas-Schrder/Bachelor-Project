@@ -3,12 +3,12 @@
 ## Introduction to Google Colab
 Google Colab is a free cloud service based on Jupyter Notebooks that supports free GPU and a pre-configured environment. It's widely used for machine learning, data analysis, and education. Key features include:
 
-## Ease of use: Colab notebooks are Jupyter notebooks hosted by Google. They require no setup and run entirely in the cloud.
+## Colab notebooks are Jupyter notebooks hosted by Google. They require no setup and run entirely in the cloud.
 Free Access to GPUs: Colab provides free access to GPUs (Graphical Processing Units) which are essential for training machine learning models.
 Collaboration: Similar to Google Docs, Colab allows real-time collaboration with colleagues.
 Integration with Google Drive: It offers seamless integration with Google Drive for saving work and accessing datasets.
 
-## File overview:
+## File overview
 This Python script contains the necessary code to perform specific tasks in machine learning and EDA.
 
 
@@ -26,14 +26,14 @@ Google Colab setup: Instructions on setting up the script in Google Colab, a clo
 Running the Script: Step-by-step guide to executing the script, including handling data files, setting parameters, and understanding script outputs.
 
 4. Example Usage
-Data mport and processing: Description of how to import and process data using Pandas and NumPy, including loading real-world e-commerce datasets.
+Data import and processing: Description of how to import and process data using Pandas and NumPy, including loading real-world e-commerce datasets.
 Data cleaning and preparation: Instructions on handling missing values, outliers, and feature engineering to enhance predictive power.
 Integrating external API: Guide on incorporating weather data through APIs to improve predictive accuracy in inventory management.
 Exploratory Data Analysis (EDA): How to conduct EDA for insightful discoveries in sales distribution, product performance, and seasonal trends.
 Machine learning readiness: Instructions on preparing the dataset for machine learning, focusing on the train-test split and implementing regression models.
 Market Basket aAnalysis (MBA): Steps to perform MBA using the Apriori algorithm, identifying common product pairings and implications for inventory management.
 
-## Provide contact information for queries related to this script.
+## Provide contact information for queries related to this script
 1. Running the script in Google Colab
 2. Open Google Colab: Visit Google Colab.
 3. Upload the script: Click on 'Upload notebook' and select the 'bachelorml (3).py' file.

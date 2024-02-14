@@ -9,7 +9,7 @@ Collaboration: Similar to Google Docs, Colab allows real-time collaboration with
 Integration with Google Drive: It offers seamless integration with Google Drive for saving work and accessing datasets.
 
 ## File overview:
-Description: This Python script (presumably related to a machine learning project for a bachelor's degree) contains the necessary code to perform specific tasks in machine learning.
+This Python script contains the necessary code to perform specific tasks in machine learning and EDA.
 
 
 ## Contents
